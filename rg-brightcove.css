@@ -1,0 +1,33 @@
+.vjs-big-play-button{
+	background-color: rgba(0,0,0,0)!important;
+	position: absolute!important;
+	top:0!important;
+	bottom:0!important;
+	left:0!important;
+	right:0!important;
+	padding-top:28.13%!important;
+	margin: 0 auto!important;
+	width: auto!important;
+	height: auto!important;
+}
+
+.vjs-big-play-button:hover{
+	border-radius:0px!important;
+	box-shadow:none!important;
+	background: rgba(0,0,0,.1)!important;
+}
+
+.vjs-big-play-button:before{
+	top:0!important;
+	bottom:0!important;
+	left:0!important;
+	right:0!important;
+	margin: 0 auto!important;
+	width: auto!important;
+	height: auto!important;
+	font-size: 50px!important;
+}
+
+.vjs-big-play-button:hover:before{
+	color: #EEE!important;
+}
